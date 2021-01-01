@@ -40,6 +40,5 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/ybekardev/sfg-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>sfg-pet-clinic-0.1.8</tag>   </scm>
 </project>
