@@ -38,7 +38,6 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
@@ -96,7 +95,7 @@
         </dependency>
     </dependencies>
 
-  <!--  <build>
+   <build>
         <plugins>
             <plugin>
                 <groupId>ro.isdc.wro4j</groupId>
@@ -131,5 +130,5 @@
                 </dependencies>
             </plugin>
         </plugins>
-    </build>-->
+    </build>
 </project>
